@@ -53,16 +53,26 @@ def main(n_estimators,max_depth):
     '''lr = ElasticNet()
     lr.fit( X_train, y_train)
     y_pred = lr.predict(X_test)'''
-
-    rf = RandomForestClassifier(n_estimators=n_estimators,max_depth=max_depth) #evaluate the model
-    rf.fit(X_train,y_train)
-    y_pred = rf.predict(X_test)
-    
-    pred_prob=rf.predict_proba(X_test)
-    
-    accuracy,roc = evaluate(y_test, y_pred,pred_prob)
-    print("Accuracy:",accuracy)
-    print("Roc_Auc:",roc)
+    with mlflow.start_run():
+        rf = RandomForestClassifier(n_estimators=n_estimators,max_depth=max_depth) #evaluate the model
+        rf.fit(X_train,y_train)
+        y_pred = rf.predict(X_test)
+        
+        pred_prob=rf.predict_proba(X_test)
+        
+        accuracy,roc = evaluate(y_test, y_pred,pred_prob)
+        
+        mlflow.log_param("n_estimators",n_estimators)
+        mlflow.log_param("max_depth",max_depth)
+        
+        mlflow.log_metric("accuracy",accuracy)
+        mlflow.log_metric("roc_auc_score",roc)
+        
+        mlflow.sklearn.log_model(rf,"randomforestmodel")
+        
+        
+        print("Accuracy:",accuracy)
+        print("Roc_Auc:",roc)
         
     
 
