@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/a650d70c9c2e4d32b3eb114be9d77e06/artifacts
+end_time: 1727129992190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a650d70c9c2e4d32b3eb114be9d77e06
+run_name: enthused-ape-835
+run_uuid: a650d70c9c2e4d32b3eb114be9d77e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727129992109
+status: 3
+tags: []
+user_id: tumat
