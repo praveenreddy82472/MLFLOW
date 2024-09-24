@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/2353256978c7448ebfe132c1995a6436/artifacts
+end_time: 1727136566031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2353256978c7448ebfe132c1995a6436
+run_name: bald-doe-351
+run_uuid: 2353256978c7448ebfe132c1995a6436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136551537
+status: 3
+tags: []
+user_id: tumat

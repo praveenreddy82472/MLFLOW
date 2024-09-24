@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/6ba065f85752479e91994db21d705711/artifacts
+end_time: 1727136405447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ba065f85752479e91994db21d705711
+run_name: mercurial-moth-209
+run_uuid: 6ba065f85752479e91994db21d705711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136391045
+status: 3
+tags: []
+user_id: tumat

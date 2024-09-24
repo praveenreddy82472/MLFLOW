@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/2373e99242eb43379cac116c81c46afd/artifacts
+end_time: 1727136582119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2373e99242eb43379cac116c81c46afd
+run_name: secretive-midge-35
+run_uuid: 2373e99242eb43379cac116c81c46afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136580197
+status: 4
+tags: []
+user_id: tumat

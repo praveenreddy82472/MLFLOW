@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/1b0cabaa68a14b779e85252b772fec21/artifacts
+end_time: 1727136677509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b0cabaa68a14b779e85252b772fec21
+run_name: sedate-kit-424
+run_uuid: 1b0cabaa68a14b779e85252b772fec21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136667136
+status: 3
+tags: []
+user_id: tumat

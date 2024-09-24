@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/db2aae9b970f41b98c0735e86f523ffe/artifacts
+end_time: 1727136603482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db2aae9b970f41b98c0735e86f523ffe
+run_name: painted-snail-857
+run_uuid: db2aae9b970f41b98c0735e86f523ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136591449
+status: 3
+tags: []
+user_id: tumat

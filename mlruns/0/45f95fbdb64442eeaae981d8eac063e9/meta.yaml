@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/45f95fbdb64442eeaae981d8eac063e9/artifacts
+end_time: 1727136512675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45f95fbdb64442eeaae981d8eac063e9
+run_name: popular-midge-346
+run_uuid: 45f95fbdb64442eeaae981d8eac063e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136503478
+status: 3
+tags: []
+user_id: tumat

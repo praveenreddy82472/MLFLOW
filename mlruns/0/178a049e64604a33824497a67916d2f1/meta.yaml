@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/178a049e64604a33824497a67916d2f1/artifacts
+end_time: 1727136527710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 178a049e64604a33824497a67916d2f1
+run_name: capricious-snake-405
+run_uuid: 178a049e64604a33824497a67916d2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136520537
+status: 3
+tags: []
+user_id: tumat

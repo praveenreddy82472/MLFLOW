@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/fc54535e3af44da28358a03099d1ec34/artifacts
+end_time: 1727136635456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc54535e3af44da28358a03099d1ec34
+run_name: whimsical-kite-881
+run_uuid: fc54535e3af44da28358a03099d1ec34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136622098
+status: 3
+tags: []
+user_id: tumat

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tumat/mlflow/mlruns/0/e9f03f016f124f07948edd077cd5f1bc/artifacts
+end_time: 1727136544714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9f03f016f124f07948edd077cd5f1bc
+run_name: masked-midge-622
+run_uuid: e9f03f016f124f07948edd077cd5f1bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727136535872
+status: 3
+tags: []
+user_id: tumat
